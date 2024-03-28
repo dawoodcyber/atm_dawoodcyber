@@ -7,7 +7,7 @@ const input = await inquirer.prompt([
         type: "number",
         name: "pin",
     },
-    {
+    {   
         message: "Set your Balance",
         type: "number",
         name: "balance",
